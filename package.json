@@ -2,7 +2,7 @@
   "name": "Robots-Rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://landocodes.github.io/robots-rolodex",
+  "homepage": "https://github.com/landocodes/Robots-Rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
